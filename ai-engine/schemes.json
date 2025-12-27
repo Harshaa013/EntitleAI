@@ -1,0 +1,27 @@
+[
+  {
+    "id": "OLD_AGE_PENSION",
+    "name": "Old Age Pension Scheme",
+    "state": "Tamil Nadu",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 200000,
+      "categories": ["SC", "ST", "OBC", "General"]
+    },
+    "benefits": "Monthly pension of ₹1000",
+    "documents": ["Aadhaar Card", "Income Certificate", "Age Proof"]
+  },
+  {
+    "id": "STUDENT_SCHOLARSHIP",
+    "name": "Post Matric Scholarship",
+    "state": "Tamil Nadu",
+    "eligibility": {
+      "min_age": 18,
+      "occupation": "student",
+      "max_income": 250000,
+      "categories": ["SC", "ST"]
+    },
+    "benefits": "Scholarship up to ₹50,000 per year",
+    "documents": ["Aadhaar Card", "Income Certificate", "Bonafide Certificate"]
+  }
+]
