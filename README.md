@@ -53,4 +53,3 @@ A comprehensive platform that helps citizens discover, understand, and access go
 - Google's Generative AI (Gemini) for chatbot
 - RESTful API architecture
 
-- 
